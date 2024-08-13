@@ -1,4 +1,4 @@
-// Home work 1
+// realtime electricity bill 
 #include<stdio.h>
 int main()
 {
