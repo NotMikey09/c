@@ -1,5 +1,7 @@
 // linear search 
+
 #include <stdio.h>
+
 int main() {
    int a[100],n,i,e,f=0;
    printf("Enter the array size 1-100:");
